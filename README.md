@@ -1,26 +1,10 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# Hello to the curious!
 
+There's really nothing interesting to see here.  This project is just about me
+personally coming up to speed in modern ES6-type Javascript because it's been
+a few years since I did serious frontend development.
 
-Hi there! Welcome to Cloud9 IDE!
+These examples are based on the O'Reilly book
+[Learning Javascvript, 3rd Edition](https://www.safaribooksonline.com/library/view/learning-javascript-3rd/9781491914892).
 
-To get you started, we included a small hello world application.
-
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+I like cats.
