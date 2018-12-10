@@ -1,0 +1,15 @@
+{
+  "name": "ch02-using-node",
+  "version": "1.0.0",
+  "description": "Textbook example of a Node program.",
+  "main": "demo.js",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
